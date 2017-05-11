@@ -4,7 +4,7 @@
 
 2-scss
 
-3-webpack
+3-webpack2
 
 4-angular material
 
